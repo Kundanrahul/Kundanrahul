@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul-kundan-63b4b3248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kundan-63b4b3248/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-kundan-63b4b3248/" target="blank"> width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/rahulkundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/rahulkundan" height="30" width="40" /></a>
 </p>
 
