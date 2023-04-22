@@ -1,6 +1,6 @@
 [![MasterHead](https://media.istockphoto.com/vectors/robotics-developer-isometric-3d-banner-header-vector-id1136640606?k=20&m=1136640606&s=170667a&w=0&h=GYAAd76A1esS_0BREBpWtVPhRAD4G8NUyUy_lXZ6Rcs=)](https://rkundan-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Rahul Kundan</h1>
-<h3 align="center">A passionate Full Stack Web Developer from NIT srinagar</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundanrahul&label=Profile%20views&color=0e75b6&style=flat" alt="kundanrahul" /> </p>
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul-kundan-63b4b3248/" target="blank"> width="40" /></a>
+<a href="https://linkedin.com/in/rahul-kundan-63b4b3248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kundan-63b4b3248/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/rahulkundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/rahulkundan" height="30" width="40" /></a>
 </p>
 
