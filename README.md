@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **rahulkundan60@gmail.com**
 
-- ⚡ Fun fact **I make crazy songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
