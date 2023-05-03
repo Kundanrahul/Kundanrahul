@@ -1,6 +1,6 @@
 [![MasterHead](https://media.istockphoto.com/vectors/robotics-developer-isometric-3d-banner-header-vector-id1136640606?k=20&m=1136640606&s=170667a&w=0&h=GYAAd76A1esS_0BREBpWtVPhRAD4G8NUyUy_lXZ6Rcs=)](https://rkundan-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Rahul Kundan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from NIT Srinagar</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 
