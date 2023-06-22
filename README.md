@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **React native and three.js**
+- 🔭 I’m currently working on **React native and Next.js**
 
 - 🌱 I’m currently learning **Dsa in c++**
 
