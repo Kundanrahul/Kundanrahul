@@ -1,17 +1,15 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://rkundan-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Rahul Kundan</h1>
-<h3 align="center">A passionate Full Stack Web Developer from NIT Srinagar</h3>
+<h3 align="center">A passionate Smart Contract Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 
 
-- 🔭 I’m currently working on **React native and Next.js**
+- 🔭 I’m currently working on **Solidity and Auditing**
 
-- 🌱 I’m currently learning **Dsa in c++**
+- 👨‍💻 All of my projects are available at [https://pf-rk.vercel.app/](https://pf-rk.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://rkundan-portfolio.netlify.app](https://rkundan-portfolio.netlify.app)
-
-- 💬 Ask me about **react,sanity,mongoDB,node**
+- 💬 Ask me about **react,sanity,mongoDB,node,solidity,foundary**
 
 - 📫 How to reach me **rahulkundan60@gmail.com**
 
