@@ -1,23 +1,24 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://rkundan-portfolio.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Rahul Kundan</h1>
-<h3 align="center">🏦 Smart Contract Developer | Solidity • Auditing • Web3</h3>
+<h3 align="center">🏦 Security‑Aware DeFi Dev | Smart Contracts • Auditing • Web3</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 ---
 
 ## ⚡ About Me
-- 🔭 Currently working on **Solidity and Auditing**  
+- 🔭 Currently working on **Solidity and Smart Contract Auditing**  
 - 👨‍💻 All of my projects: [Portfolio](https://pf-rk.vercel.app/)  
 - 💬 Ask me about **React, Sanity, MongoDB, Node, Solidity, Foundry**  
-- 📫 Reach me at **rahulkundan60@gmail.com**
+- 📫 Reach me at **rahulkundan60@gmail.com**  
+- 🛡️ Passionate about **building secure, transparent, and reproducible DeFi protocols**
 
 ---
 
 ## 🚀 Featured Projects
 - [MiniMoneyMarket](https://github.com/Kundanrahul/MiniMoneyMarket) – Lending & borrowing protocol with TWAP oracle  
-- [Audit Reports](https://github.com/Kundanrahul/audit-report) – Transparency-focused security and gas audits  
+- [Audit Reports](https://github.com/Kundanrahul/audit-report) – Transparency‑focused security and gas audits  
 - [Portfolio](https://pf-rk.vercel.app/) – Personal portfolio site  
 
 ---
@@ -58,7 +59,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kundanrahul&show_icons=true&theme=radical" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanrahul&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundanrahul&theme=radical" alt="streak"/>
 </p>
+
+---
+
+## 🏆 Achievements
+-  Built **MiniMoneyMarket**, a reproducible DeFi protocol with TWAP oracle  
+-  Published **audit reports** for transparency and credibility  
+-  Experienced in **gas optimization, Slither analysis, and SSR safety**  
+-  Strong focus on **security‑aware design** (reentrancy guards, SafeERC20, staleness checks)
 
 ---
 
