@@ -1,30 +1,69 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://rkundan-portfolio.netlify.app/)
+
 <h1 align="center">Hi 👋, I'm Rahul Kundan</h1>
-<h3 align="center">A passionate Smart Contract Developer</h3>
+<h3 align="center">🏦 Smart Contract Developer | Solidity • Auditing • Web3</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
+---
 
+## ⚡ About Me
+- 🔭 Currently working on **Solidity and Auditing**  
+- 👨‍💻 All of my projects: [Portfolio](https://pf-rk.vercel.app/)  
+- 💬 Ask me about **React, Sanity, MongoDB, Node, Solidity, Foundry**  
+- 📫 Reach me at **rahulkundan60@gmail.com**
 
-- 🔭 I’m currently working on **Solidity and Auditing**
+---
 
-- 👨‍💻 All of my projects are available at [https://pf-rk.vercel.app/](https://pf-rk.vercel.app/)
+## 🚀 Featured Projects
+- [MiniMoneyMarket](https://github.com/Kundanrahul/MiniMoneyMarket) – Lending & borrowing protocol with TWAP oracle  
+- [Audit Reports](https://github.com/Kundanrahul/audit-report) – Transparency-focused security and gas audits  
+- [Portfolio](https://pf-rk.vercel.app/) – Personal portfolio site  
 
-- 💬 Ask me about **react,sanity,mongoDB,node,solidity,foundary**
+---
 
-- 📫 How to reach me **rahulkundan60@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/rahul-kundan-63b4b3248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kundan-63b4b3248/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/rahulkundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/rahulkundan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-kundan-63b4b3248/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/user/rahulkundan" target="blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://pf-rk.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundanrahul&show_icons=true&locale=en&layout=compact" alt="kundanrahul" /></p>
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kundanrahul&show_icons=true&locale=en" alt="kundanrahul" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kundanrahul&" alt="kundanrahul" /></p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundanrahul&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundanrahul&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanrahul&layout=compact&theme=radical" alt="langs"/>
+</p>
+
+---
+
+## 🎯 Fun Facts
+- Debugging Solidity smart contracts > coffee ☕  
+- Deployment errors = learning opportunities  
+- Motto: *Transparency, reproducibility, credibility*  
