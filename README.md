@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kundan</h1>
 <h3 align="center">🏦 Security‑Aware DeFi Dev | Smart Contracts • Auditing • Web3</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
+<img align="right" alt="coding" width="250" height="200" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 ---
 
