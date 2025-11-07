@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/rahul-kundan-63b4b3248/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/user/rahulkundan" target="blank">
+<a href="https://www.geeksforgeeks.org/user/rahulkundan/" target="blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 <a href="https://pf-rk.vercel.app/" target="blank">
@@ -57,7 +57,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kundanrahul&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundanrahul&theme=radical" alt="streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanrahul&layout=compact&theme=radical" alt="langs"/>
 </p>
 
